@@ -1,8 +1,8 @@
-CSC171 — Project 1
+This program creates a simple projectile launch based game and was a project in the CSC171 course at the University of Rochester.
+
 TTY Projectiles
 Collaborators: Bahawar Dhillon(Net ID: bdhillon), Darman Khan  (Net ID:dkhan2), Emmanuel Debessa(Net ID: edebessa)
-		
-		
+
 The project that satisfies the basic requirements as well as the extra credit is found in the .java file "CSC171_ProjectOne.java".
 The easy mode and the hard mode were introduced so that the user can have the option to factor in drag force. Hard mode includes drag force and easy mode doesn't.
 Random statements have been included to show the outcome of each launch.
