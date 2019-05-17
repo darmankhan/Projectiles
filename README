@@ -1,0 +1,16 @@
+CSC171 — Project 1
+TTY Projectiles
+To be Submitted Saturday October 06, 2018 by 11:59 AM
+This project was done with the collaborative effort of three CSC171 students
+Namely: Bahawar Dhillon( Net ID: bdhillon)
+		Darman Khan  ( Net ID:dkhan2 )
+		Emmanuel Debessa(Net ID: edebessa )
+		
+		
+The project that satisfies the basic requirements as well as the extra credit is found in the .java file "CSC171_ProjectOne.java".
+The easy mode and the hard mode were introduced so that the user can have the option to factor in drag force. Hard mode includes drag force and easy mode doesn't.
+Random statements have been included to show the outcome of each launch.
+"nanaoTime()" was used to have the effect of the wall moving closer and closer.
+
+
+Instructions on how to play the game are printed at the start of the game. 
